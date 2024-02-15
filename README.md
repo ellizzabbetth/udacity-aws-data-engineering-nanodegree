@@ -3,4 +3,6 @@
 ## Certificate
 
 ![Screenshot](./learn.udacity.com_view-certificate_nd027.pdf)
-[learn-udacity-com-view-certificate-nd027.png](https://postimg.cc/wRQJr206)
+<div align="center">
+    <img src="/learn.udacity.com_view-certificate_nd027.pdf" width="400px"</img> 
+</div>
